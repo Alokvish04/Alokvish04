@@ -7,8 +7,6 @@
 
 - 🌱 **Currently learning New Languages**
 
-- 💬 **Personality Type: INFP**
-
 - 📫 **Contact me: vishwaalok050@gmail.com**
 
 - ⚡ **Engineering Student**
