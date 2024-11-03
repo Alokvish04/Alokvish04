@@ -7,7 +7,7 @@
 
 - 🌱 **Currently learning New Languages**
 
-- 📫 **Contact me: vishwaalok050@gmail.com**
+- 📫 **Contact me : vishwaalok050@gmail.com**
 
 - ⚡ **Engineering Student**
 
