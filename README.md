@@ -26,6 +26,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">GSSoC Badges :</h3>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<p align="left"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="70px" height="70px" /></p>
+
 <h3 align = "left">Recent Projects/Activities :</h3>
 <p align = "left"> ✨<a href ="https://github.com/Alokvish04/Amazon-homepage-clone">Amazon Homepage Clone</a>
 <p align = "left"> ✨<a href ="https://github.com/Alokvish04/TIC-TAC-TOE-GAME">TIC TAC TOE GAME</a>
