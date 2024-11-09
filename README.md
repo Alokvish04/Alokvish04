@@ -5,7 +5,7 @@
 
 - ✨ **Contibutor at GSSoC'24 extd**
 
-- 🌱 **Currently learning New Languages**
+- 👨🏻‍💻 **Currently learning New Languages**
 
 - 📫 **Contact me : vishwaalok050@gmail.com**
 
