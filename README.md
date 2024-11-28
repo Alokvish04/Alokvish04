@@ -36,8 +36,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
 </div>
 <h3 align = "left">Recent Projects/Activities :</h3>
-<p align = "left"> ✨<a href ="https://github.com/Alokvish04/Amazon-homepage-clone">Amazon Homepage Clone</a>
-<p align = "left"> ✨<a href ="https://github.com/Alokvish04/TIC-TAC-TOE-GAME">TIC TAC TOE GAME</a>
+<p align = "left"> ✨ <a href ="https://github.com/Alokvish04/Amazon-homepage-clone">Amazon Homepage Clone</a>
+<p align = "left"> ✨ <a href ="https://github.com/Alokvish04/TIC-TAC-TOE-GAME">TIC TAC TOE GAME</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokvish04&show_icons=true&locale=en&layout=compact" alt="alokvish04" /></p>
 
