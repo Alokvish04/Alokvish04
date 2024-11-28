@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Alok Vishwakarma !</h1>
 <h3 align="center">Student at Maharana Pratap Engineering College</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="umm.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokvish04&label=Profile%20views&color=0e75b6&style=flat" alt="alokvish04" /> </p>
 <h3 align="left">About me :</h3>
 
