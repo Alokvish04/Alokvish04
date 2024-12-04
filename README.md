@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/btwitsalok_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="btwitsalok_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alok-vishwakarma-b2a5a7239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok-vishwakarma-b2a5a7239" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alokvish04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok-vishwakarma-b2a5a7239" height="30" width="40" /></a>
 <a href="https://instagram.com/its.me__alok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.me__alok" height="30" width="40" /></a>
 <a href="https://discord.gg/its_me_a.l.o.k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_me_a.l.o.k_" height="30" width="40" /></a>
 </p>
