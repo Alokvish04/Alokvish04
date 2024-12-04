@@ -27,15 +27,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
- <b>GSSOC'24 Badges :</b><br>
-<div style='display:flex; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
-</div>
+
 <h3 align = "left">Recent Projects/Activities :</h3>
 <p align = "left"> ✨ <a href ="https://github.com/Alokvish04/Amazon-homepage-clone">Amazon Homepage Clone</a>
 <p align = "left"> ✨ <a href ="https://github.com/Alokvish04/TIC-TAC-TOE-GAME">TIC TAC TOE GAME</a></p>
