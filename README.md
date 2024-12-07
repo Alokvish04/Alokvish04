@@ -31,8 +31,9 @@
 
 
 <h3 align = "left">Recent Projects/Activities :</h3>
-<p align = "left"> ✨ <a href ="https://github.com/Alokvish04/Amazon-homepage-clone">Amazon Homepage Clone</a>
+<p align = "left"> ✨ <a href ="https://github.com/Alokvish04/Amazon-homepage-clone">Amazon Homepage Clone</a></p>
 <p align = "left"> ✨ <a href ="https://github.com/Alokvish04/TIC-TAC-TOE-GAME">TIC TAC TOE GAME</a></p>
+<p align = "left"> ✨ <a href ="https://github.com/Alokvish04/E-commerce-Website">E-commerce-Website
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokvish04&show_icons=true&locale=en&layout=compact" alt="alokvish04" /></p>
 
