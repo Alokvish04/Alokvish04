@@ -10,7 +10,7 @@
 
 - 📫 **Contact me : vishwaalok050@gmail.com**
 
-- ⚡ **Engineering Student**
+- ⚡ **Pre-Final Year Student**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
