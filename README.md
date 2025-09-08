@@ -51,5 +51,5 @@
 <hr>
 
 <p align = "center">
-<b>Show your support by starring some of the repositories !!</b>
+<b>Show your support by starring some of my repositories !!</b>
 
