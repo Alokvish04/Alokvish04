@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/btwitsalok_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="btwitsalok_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alokvish04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok-vishwakarma-b2a5a7239" height="30" width="40" /></a>
-<a href="https://instagram.com/its.me__alok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.me__alok" height="30" width="40" /></a>
+<a href="https://instagram.com/alokitis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.me__alok" height="30" width="40" /></a>
 <a href="https://discord.gg/its_me_a.l.o.k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_me_a.l.o.k_" height="30" width="40" /></a>
 </p>
 
@@ -34,6 +34,8 @@
 <p align = "left"> ✨ <a href ="https://github.com/Alokvish04/Amazon-homepage-clone">Amazon Homepage Clone</a></p>
 <p align = "left"> ✨ <a href ="https://github.com/Alokvish04/TIC-TAC-TOE-GAME">TIC TAC TOE GAME</a></p>
 <p align = "left"> ✨ <a href = "https://github.com/Alokvish04/Spotify-Homepage-Clone">Spotify Homepage  Clone</a></p>
+<p align = "left"> ✨ <a href = "https://github.com/Alokvish04/Resume-Screener">Resume-Screener</a></p>
+<p align = "left"> ✨ <a href = "https://github.com/Alokvish04/Loan-Prediction-Model">Loan Prediction Model</a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokvish04&show_icons=true&locale=en&layout=compact" alt="alokvish04" /></p>
 
