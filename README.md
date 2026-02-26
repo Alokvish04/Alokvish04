@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokvish04&label=Profile%20views&color=0e75b6&style=flat" alt="alokvish04" /> </p>
 <h3 align="left">About me :</h3>
 
+- ✨ **Contibutor at GSSoC'24 extd**
+
 - ⚡ **Pre-Final Year Student**
 
 - 📫 **Contact me : vishwaalok050@gmail.com**
