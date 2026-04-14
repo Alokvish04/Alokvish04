@@ -27,13 +27,6 @@
 </p>
 
 
-<h3 align = "left">Recent Projects/Activities :</h3>
-<p align = "left"> ✨ <a href ="https://github.com/Alokvish04/Amazon-homepage-clone">Amazon Homepage Clone</a></p>
-<p align = "left"> ✨ <a href ="https://github.com/Alokvish04/TIC-TAC-TOE-GAME">TIC TAC TOE GAME</a></p>
-<p align = "left"> ✨ <a href = "https://github.com/Alokvish04/Spotify-Homepage-Clone">Spotify Homepage  Clone</a></p>
-<p align = "left"> ✨ <a href = "https://github.com/Alokvish04/Resume-Screener">Resume-Screener</a></p>
-<p align = "left"> ✨ <a href = "https://github.com/Alokvish04/Loan-Prediction-Model">Loan Prediction Model</a></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokvish04&show_icons=true&locale=en&layout=compact" alt="alokvish04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokvish04&show_icons=true&locale=en" alt="alokvish04" /></p>
