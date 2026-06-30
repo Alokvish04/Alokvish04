@@ -6,7 +6,7 @@
 
 - ✨ **Contibutor at GSSoC'24 extd**
 
-- ⚡ **Pre-Final Year Student**
+- ⚡ **Final Year Student**
 
 - 📫 **Contact me : vishwaalok050@gmail.com**
 
